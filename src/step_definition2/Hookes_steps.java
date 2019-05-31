@@ -14,6 +14,7 @@ public class Hookes_steps {
 	@When("^this is the second step$")
 	public void this_is_the_second_step()  {
 		  System.out.println("this is the 2nd step");
+		  System.out.println("Yess");
 		   
 	   
 	}
